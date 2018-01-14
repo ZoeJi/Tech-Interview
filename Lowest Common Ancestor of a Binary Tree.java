@@ -1,5 +1,8 @@
 /**
- * Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree.
+ * @Author: Qianying Ji
+ *
+ * The following code is my solution to the classic Lowest Common Ancestor(LCA) problem with thoughts and explanation.
+ * Problem description: Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree.
  *
  * Definition for a binary tree node.
  * public class TreeNode {
